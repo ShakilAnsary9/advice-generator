@@ -1,0 +1,14 @@
+:root {
+  --Grayish-Blue: hsl(217, 19%, 38%);
+  --Dark-Grayish-Blue: hsl(217, 19%, 24%);
+  --Dark-Blue: hsl(218, 23%, 16%);
+  --Light-Cyan: hsl(193, 38%, 86%);
+  --Neon-Green: hsl(150, 100%, 66%);
+}
+
+.main-card {
+  width: 200px;
+  height: 200px;
+  background-color: var(--Grayish-Blue);
+  border-radius: 10px;
+}
